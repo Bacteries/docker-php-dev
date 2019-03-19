@@ -51,7 +51,7 @@ phpMyAdmin is served by default in the port 8090.
 
 ## Using a different PHP version
 
-By default it is used the PHP 5.6 but if you want use a diffent version just edit the version number in the `./docker/php/Dockerfile` file.
+By default it is used the PHP 7.1 but if you want use a diffent version just edit the version number in the `./docker/php/Dockerfile` file.
 
 For more information about Docker images of other PHP versions check the [PHP Docker Hub](https://hub.docker.com/_/php/).
 
